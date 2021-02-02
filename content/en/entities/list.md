@@ -33,7 +33,7 @@ menu:
 
 ### `replies_policy` {#replies_policy}
 
-**Description:** The user-defined title of the list.\
+**Description:** The policy regarding display of replies by or to the list members.\
 **Type:** String (Enumerable oneOf)\
 `followed` = Show replies to any followed user\
 `list` = Show replies to members of the list\
